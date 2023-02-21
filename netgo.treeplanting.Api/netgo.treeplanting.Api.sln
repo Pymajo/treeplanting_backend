@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "netgo.treeplanting.Api", "netgo.treeplanting.Api.csproj", "{49743D5D-6C6B-4523-8C13-AC4CD4659483}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "netgo.treeplanting.Domain.Core", "..\netgo.treeplanting.Domain.Core\netgo.treeplanting.Domain.Core.csproj", "{12C2B4D2-7A51-4E7D-93B8-5C1D35B83D48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "netgo.treeplanting.Application", "..\netgo.treeplanting.Application\netgo.treeplanting.Application.csproj", "{EF7609E8-95A3-4D09-BA77-AE1B8A010325}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "netgo.treeplanting.Domain", "..\netgo.treeplanting.Domain\netgo.treeplanting.Domain.csproj", "{05DC5CD0-7C3F-48F0-AE32-887A933E55B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "netgo.treeplanting.Infrastructure", "..\netgo.treeplanting.Infrastructure\netgo.treeplanting.Infrastructure.csproj", "{0D8937E0-942D-470E-AB84-102DC187C558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49743D5D-6C6B-4523-8C13-AC4CD4659483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49743D5D-6C6B-4523-8C13-AC4CD4659483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49743D5D-6C6B-4523-8C13-AC4CD4659483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49743D5D-6C6B-4523-8C13-AC4CD4659483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C2B4D2-7A51-4E7D-93B8-5C1D35B83D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C2B4D2-7A51-4E7D-93B8-5C1D35B83D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C2B4D2-7A51-4E7D-93B8-5C1D35B83D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C2B4D2-7A51-4E7D-93B8-5C1D35B83D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7609E8-95A3-4D09-BA77-AE1B8A010325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7609E8-95A3-4D09-BA77-AE1B8A010325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7609E8-95A3-4D09-BA77-AE1B8A010325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7609E8-95A3-4D09-BA77-AE1B8A010325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05DC5CD0-7C3F-48F0-AE32-887A933E55B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DC5CD0-7C3F-48F0-AE32-887A933E55B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DC5CD0-7C3F-48F0-AE32-887A933E55B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DC5CD0-7C3F-48F0-AE32-887A933E55B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D8937E0-942D-470E-AB84-102DC187C558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8937E0-942D-470E-AB84-102DC187C558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8937E0-942D-470E-AB84-102DC187C558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8937E0-942D-470E-AB84-102DC187C558}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C94AED67-1ADB-4632-9ECF-754B8EC4578B}
+	EndGlobalSection
+EndGlobal
